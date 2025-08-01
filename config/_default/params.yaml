@@ -10,8 +10,6 @@ appearance:
   theme_night:
   font: native
   font_size: L
-  mode: light
-  color: green
 
 # SEO
 
@@ -118,3 +116,7 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+params:
+  customSCSS:
+    - scss/template.scss
