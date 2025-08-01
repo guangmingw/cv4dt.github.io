@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Computer Vision for Digital Twins (CV4DT)
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **CV4DT** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2025.
   
   - block: collection
     content:
@@ -35,6 +35,10 @@ sections:
     design:
       view: card
       columns: '1'
+        # Choose a color such as from https://html-color-codes.info
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
   
   - block: markdown
     content:
