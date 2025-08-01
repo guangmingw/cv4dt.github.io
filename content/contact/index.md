@@ -22,8 +22,8 @@ sections:
         country: United Kingdom
         country_code: UK
       coordinates:
-        latitude: '52.2106', 
-        longitude: '0.0944',
+        latitude: '52.2106' 
+        longitude: '0.0944'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
