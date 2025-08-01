@@ -8,25 +8,22 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+      text: Feel free to send us an email, if you are interested in collaboration or joining our group as
+        - intern
+        - visiting researcher
+        - PhD candidate
+        - Post-doc
+      email: okw24@cam.ac.uk
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 7a JJ Thomson Ave,  
+        city: Cambridge
+        region: Cambridgeshire
+        postcode: 'CB3 0FA'
+        country: United Kingdom
+        country_code: UK
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        latitude: '52.2106', 
+        longitude: '0.0944',
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
