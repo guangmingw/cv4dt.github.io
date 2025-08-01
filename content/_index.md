@@ -8,37 +8,33 @@ sections:
   - block: hero
     content:
       title: |
-        Computer Vision for Digital Twins (CV4DT)
+        CV4DT
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **CV4DT** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2025.
+        The **Computer Vision for Digital Twins (CV4DT)** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2025.
   
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-        # Choose a color such as from https://html-color-codes.info
-    color: 'navy'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+ #  - block: collection
+ #    content:
+ #      title: Latest News
+ #      subtitle:
+ #      text:
+ #      count: 5
+ #      filters:
+ #        author: ''
+ #        category: ''
+ #        exclude_featured: false
+ #        publication_type: ''
+ #        tag: ''
+ #      offset: 0
+ #      order: desc
+ #      page_type: post
+ #    design:
+ #      view: card
+ #      columns: '1'
   
   - block: markdown
     content:
