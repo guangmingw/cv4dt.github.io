@@ -8,11 +8,10 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: Feel free to send us an email, if you are interested in collaboration or joining our group as
-        - intern
-        - visiting researcher
-        - PhD candidate
-        - Post-doc
+      text: If you are interested in collaboration, feel free to send us an email specifying your proposed ramification and research direction! <br> If you are interested joining our group, keep your eyes peeled for job openings or send us an generic inquiry for 
+
+        >  | **Intern** | **Visiting researcher** | **PhD candidate** | **Post-doc** | <br> <br> please send as a CV and a cover letter answering the question *why CV4DT?*
+
       email: okw24@cam.ac.uk
       address:
         street: 7a JJ Thomson Ave,  
@@ -33,16 +32,7 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
+
 
   - block: markdown
     content:
