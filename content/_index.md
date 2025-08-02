@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Computer Vision for Digital Twins (CV4DT)** research group based at the [University of Cambridge](https://www.cam.ac.uk/) and led by [Olaf Wysocki](https://olafwysocki.github.io/) centres on developing methods and datasets for pushing the boundaries of 3D computer vision for accurate transfer of reality into the digital world to enable prediction before any action is taken.g
+        The **Computer Vision for Digital Twins (CV4DT)** research group based at the [University of Cambridge](https://www.cam.ac.uk/) and led by [Olaf Wysocki](https://olafwysocki.github.io/) centres on developing methods and datasets for pushing the boundaries of 3D computer vision for accurate transfer of reality into the digital world to enable simulation before any action is taken.
   
  #  - block: collection
  #    content:
@@ -35,26 +35,83 @@ sections:
  #    design:
  #      view: card
  #      columns: '1'
+#
+ # - block: markdown
+ #   content:
+ #     title:
+ #     subtitle: ''
+ #     text:
+ #   design:
+ #     columns: '1'
+ #     background:
+ #       image: 
+ #         filename: coders.jpg
+ #         filters:
+ #           brightness: 1
+ #         parallax: false
+ #         position: center
+ #         size: cover
+ #         text_color_light: true
+ #     spacing:
+ #       padding: ['20px', '0', '20px', '0']
+ #     css_class: fullscreen
 
-  - block: markdown
+  - block: slider
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
+      slides:
+      - title: 👋 Welcome to the CV4DT world
+        content: 'Check out our research focus...'
+        align: center
+        background:
+          image:
+            filename: zahaAnimated.gif
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+      - title: 3D Semantic Understanding
+        content: 'Reconstructing high-detail semantic 3D city models'
+        align: left
+        background:
+          image:
+            filename: zahaAnimated.gif
+            filters:
+              brightness: 0.7
           position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+          color: '#555'
+      - title: 3D Semantic Object Reconstruction
+        content: 'Reconstructing high-detail semantic 3D models'
+        align: left
+        background:
+          image:
+            filename: relod3.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title: 3D Models as Novel Modality
+        content: 'High-detail structured 3D models as new sensor signal'
+        align: left
+        background:
+          image:
+            filename: pose.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2200
 
   - block: collection
     content:
