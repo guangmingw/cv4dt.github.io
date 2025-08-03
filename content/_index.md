@@ -125,12 +125,24 @@ sections:
       view: citation
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./contact/" cta_text="Contact us →" %}}
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle:
+#      text: |
+#        {{% cta cta_link="./contact/" cta_text="Contact us →" %}}
+#    design:
+#      columns: '1'
+#      background:
+#        image: 
+#          filename: ingolstadt.jpg
+#          filters:
+#            brightness: 0.5
+#          parallax: false
+#          position: center
+#          size: cover
+#          text_color_light: true
+#      spacing:
+#        padding: ['200px', '0', '2px', '0']
+#      css_class: fullscreen
 ---

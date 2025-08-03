@@ -8,11 +8,11 @@ authors:
 - Olaf Wysocki
 - Boris Jutzi
 - Daniel Cremers
-date: '2025-01-01'
+date: '2025-08-03'
 publishDate: '2025-08-02T09:10:20.391992Z'
 publication_types:
 - article-journal
-publication: <br> *CoRL 25*
+publication: <br> *Accepted for CoRL '25*
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2504.19258

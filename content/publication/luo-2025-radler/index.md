@@ -9,7 +9,7 @@ authors:
 - Benedikt Schwab
 - Thomas H Kolbe
 - Daniel Cremers
-date: '2025-01-01'
+date: '2025-06-20'
 publishDate: '2025-08-02T09:10:20.398224Z'
 publication_types:
 - paper-conference

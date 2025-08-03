@@ -10,7 +10,7 @@ authors:
 - Ludwig Hoegner
 - Daniel Cremers
 - Christoph Holst
-date: '2025-01-01'
+date: '2025-03-20'
 publishDate: '2025-08-02T09:10:20.416769Z'
 publication_types:
 - paper-conference

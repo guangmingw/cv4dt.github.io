@@ -52,7 +52,3 @@ sections:
       css_class: fullscreen
 ---
 
-ahkdjadaskd
-
-dasdsa
-

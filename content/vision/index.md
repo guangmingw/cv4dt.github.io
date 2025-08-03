@@ -7,8 +7,8 @@ image:
 ---
 **CV4DT** aims to gather researchers willing to push forward the boundaries of machine learning, photogrammetry, and computer vision.
 As shown above, our **CV4DT** research agenda focuses on the following aspects: 
-- 3D Semantic understanding, 
-- 3D Semantic reconstruction, 
+- 3D semantic understanding, 
+- 3D semantic reconstruction, 
 - 3D models as sensors, 
 - Uncertainty quantification -- overarching all three aspects.
 

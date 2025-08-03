@@ -8,7 +8,7 @@ authors:
 - Filip Biljecki
 - Christoph Holst
 - Boris Jutzi
-date: '2025-01-01'
+date: '2025-06-21'
 publishDate: '2025-08-02T09:10:20.404490Z'
 publication_types:
 - paper-conference
