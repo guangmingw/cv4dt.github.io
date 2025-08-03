@@ -12,5 +12,13 @@ date: '2025-01-01'
 publishDate: '2025-08-02T09:10:20.404490Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the Computer Vision and Pattern Recognition Conference*'
+publication: <br> *CVPR ‘25*
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2504.05249v1
+- name: PDF
+  url: https://wenzhaotang.github.io/Texture2LoD3/static/pdf/ReLoD3__CVPRW25.pdf
+- name: Project page
+  url: https://wenzhaotang.github.io/Texture2LoD3/
+
 ---

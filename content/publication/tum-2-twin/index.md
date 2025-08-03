@@ -43,7 +43,7 @@ publication_types:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2505.07396
-- name: URL
+- name: PDF
   url: https://arxiv.org/abs/2505.07396
 - name: Project page
   url: https://tum2t.win/

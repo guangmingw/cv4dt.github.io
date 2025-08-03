@@ -1,6 +1,6 @@
 ---
-title: 'Opal: Visibility-aware lidar-to-openstreetmap place recognition via adaptive
-  radial fusion'
+title: 'OPAL: Visibility-aware Lidar-to-OpenStreetMap Place Recognition via Adaptive
+  Radial Fusion'
 authors:
 - Shuhao Kang
 - Martin Y Liao
@@ -12,5 +12,10 @@ date: '2025-01-01'
 publishDate: '2025-08-02T09:10:20.391992Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint arXiv:2504.19258*'
+publication: <br> *CoRL 25*
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2504.19258
+- name: PDF
+  url: https://arxiv.org/pdf/2504.19258
 ---

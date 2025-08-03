@@ -13,5 +13,12 @@ date: '2025-01-01'
 publishDate: '2025-08-02T09:10:20.398224Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the Computer Vision and Pattern Recognition Conference*'
+publication: <br> *CVPR '25*
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2504.12167
+- name: PDF
+  url: https://openaccess.thecvf.com/content/CVPR2025W/PBVS/html/Luo_RADLER_Radar_Object_Detection_Leveraging_Semantic_3D_City_Models_and_CVPRW_2025_paper.html
+- name: Project page
+  url: https://gpp-communication.github.io/RADLER/
 ---
