@@ -14,6 +14,12 @@ date: '2025-01-01'
 publishDate: '2025-08-02T09:10:20.416769Z'
 publication_types:
 - paper-conference
-publication: '*2025 IEEE/CVF Winter Conference on Applications of Computer Vision
-  (WACV)*'
+publication: <br> *WACV ‘25*
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2411.04865
+- name: PDF
+  url: https://openaccess.thecvf.com/content/WACV2025/supplemental/Wysocki_ZAHA_Introducing_the_WACV_2025_supplemental.pdf
+- name: Project page
+  url: https://github.com/oloocki/zaha
 ---
