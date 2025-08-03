@@ -8,13 +8,10 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: If you are interested in collaboration, feel free to send us an email specifying your proposed ramification and research direction! <br> If you are interested joining our group, keep your eyes peeled for job openings or send us an generic inquiry for 
-
-        >  | **Intern** | **Visiting researcher** | **PhD candidate** | **Post-doc** | <br> <br> please send as a CV and a cover letter answering the question *why CV4DT?*
-
+      text: Interested in collaborating? We're open to any challenging and novel ideas, especially concerning 3D semantic understanding, 3D semantic reconstruction, and uncertainty quantification! Just drop us an email! <br> <br> We're always looking for bright computer vision wizards to join our CV4DT magic school (though, we don't reside in dungeons but have a brand-new office space!). Keep your eyes peeled for job openings or send us a generic inquiry for <ul> <li>| **Intern** | **Visiting researcher** | **PhD** | **Postdoc** |</li> </ul> <p>Please send as a CV and a cover letter answering the 4xW questions</p> <ul> <li>*What problem would you tackle?*</li> <li>*What is your approach to tackle it?*</li> <li>*Why is it important to solve it?*</li> <li>*Why CV4DT?*</li> </ul> <p>Requirements:</p> <ul> <li>Master's degree (Intern, PhD), PhD (Postdoc) </li> <li>Computer vision, photogrammetry, remote sensing, computer graphics or related background</li> <li>Strong coding skills (Python and ML libraries)</li> <li>Motivation and passion for your research topic</li> 
       email: okw24@cam.ac.uk
       address:
-        street: 7a JJ Thomson Ave,  
+        street: 7a JJ Thomson Ave  
         city: Cambridge
         region: Cambridgeshire
         postcode: 'CB3 0FA'
@@ -54,3 +51,8 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 ---
+
+ahkdjadaskd
+
+dasdsa
+
