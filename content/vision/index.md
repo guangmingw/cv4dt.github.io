@@ -1,5 +1,5 @@
 ---
-title: Agenda
+title: Vision
 date: 2022-10-24
 image:
   focal_point: 'top'
