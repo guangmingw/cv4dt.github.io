@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Dr Olaf Wysocki
+title: Dr Guangming Wang
 
 # Full Name (for SEO)
-first_name: Olaf
-last_name: Wysocki
+first_name: Guangming
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Group Lead, Assistant Research Professor
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 3D Semantic Understanding
-  - 3D Semantic Reconstruction
-  - 3D Models as Sensors
+  - Robot perception
+  - Robot localization
+  - Robot mapping
 
 #education:
 #  courses:
@@ -44,16 +44,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:okw24@cam.ac.uk'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
+    link: 'mailto:gw462@cam.ac.uk'
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=GGHfHSIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/guangmingw
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +72,12 @@ user_groups:
   - Researchers
 ---
 
-I’m Assistant Research Professor at the University of Cambridge leading the group CV4DT.I was Research Associate on 3D object reconstruction & semantic segmentation of point clouds at the Photogrammetry & Remote Sensing Chair, Technical University of Munich, where I received summa cum laude PhD in Photogrammetry and Remote Sensing under the mentorship of Prof Thomas H. Kolbe and late Prof Uwe Stilla. A few years back, I obtained my Geodesy and Geoinformatics master’s degree with a major in photogrammetry from Technical University of Munich. I was fortunate to intern and complete my master’s thesis devoted to HD Maps for automated driving at Audi AG and had a previous stint as a geomatics professional in a 3D urban-reconstruction-focused company. Currently, a member of Runder Tisch GIS, TUM Data Innovation Lab and Get Kids into Survey. Cherishing interdisciplinary collaboration with top-notch professors and their labs: Yan Xia Christoph Holst Boris Jutzi Filip Biljecki Daniel Cremers.
+I am a Postdoctoral Research Associate of the Department of Engineering at the University of Cambridge advised by Prof. Ioannis Brilakis.
+
+I obtain my Ph.D. degree in the Intelligent Robotics and Machine Vision (IRMV) Lab at the Shanghai Jiao Tong University advised by Prof. Hesheng Wang.
+
+From 2021.09, I also work with Prof. Masayoshi Tomizuka from UC Berkeley. From 2022.06 to 2023.06, I was a visiting researcher in the Computer Vision and Geometry Group (CVG), ETH Zurich, advised by Prof. Marc Pollefeys.
+
+I am an Associate Editor (AE) for RAL, ICRA2024, 2025, and IROS2024, 2025. I was awarded the DAAD AI and Robotics fellow. I obtained twice “National Scholarships for Doctoral Students” (Top 1% in Shanghai Jiao Tong University). My doctoral thesis received the Excellent Doctoral Dissertation Award from Shanghai Jiao Tong University (15 recipients university-wide annually, the only one in Department of Automation)!
+
+Most of my co-mentored undergraduates have gone to UC Berkeley, Princeton, HKU, Columbia, Gatech, UCSD, UCLA, TUM, SJTU and so on. Some of them got full scholarships for direct PhD students. Welcome to contact me to come to the University of Cambridge for a visiting PhD student or remote collaboration!
