@@ -74,7 +74,7 @@ sections:
           text: Join Us
           url: ../contact/
       - title: 3D Semantic Understanding
-        content: 'Reconstructing high-detail semantic 3D city models'
+        content: '3D scene understanding with imbalanced data'
         align: left
         background:
           image:
